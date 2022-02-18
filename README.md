@@ -38,4 +38,5 @@ namespace Exercises<br>
 
 OUTPUT:-
 <br>
-![Screenshot 2022-02-18 114059](https://user-images.githubusercontent.com/98145032/154628387-1df21a58-6cc3-4223-8a10-cf76f8a22084.png)
+![Screenshot 2022-02-18 120931](https://user-images.githubusercontent.com/98145032/154631215-f4606e11-3367-4a0e-b04f-6c87fdc9f395.png)
+
